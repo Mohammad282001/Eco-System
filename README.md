@@ -1,11 +1,11 @@
-# Eco-System
-# Eco-Action Tracker - Sustainable Living Platform
+# Green Hope
+# Green Hope Tracker - Sustainable Living Platform
 
 ## What is this project?
 
-Eco-Action Tracker is an innovative web application designed to promote and facilitate eco-friendly actions and sustainable living. The platform enables users to participate in environmental initiatives, track their eco-friendly actions, and contribute to collective sustainability goals. Eco-Action Tracker aims to motivate individuals, businesses, and communities to reduce their carbon footprint, engage in eco-challenges, and foster a community of environmental consciousness.
+Green Hope Tracker is an innovative web application designed to promote and facilitate eco-friendly actions and sustainable living. The platform enables users to participate in environmental initiatives, track their eco-friendly actions, and contribute to collective sustainability goals. Green Hope Tracker aims to motivate individuals, businesses, and communities to reduce their carbon footprint, engage in eco-challenges, and foster a community of environmental consciousness.
 
-## Why Should Users Use Eco-Action Tracker?
+## Why Should Users Use Green Hope Tracker?
 
 - **Personal Impact Tracking**: Easily log eco-friendly actions, set personal goals, and track environmental impact (e.g., CO2 reduction).
 - **Community Engagement**: Join community challenges, earn badges, and participate in local eco-events.
